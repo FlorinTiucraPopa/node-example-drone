@@ -7,7 +7,7 @@
     "test": "node test.js",
     "start": "node index.js"
   },
-  "author": "",
+  "author": "ISC_FTP",
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0",
