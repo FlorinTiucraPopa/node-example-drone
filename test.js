@@ -2,6 +2,6 @@
 
  test('It just works', (t) => {
   // throw "error"
-  t.ok(1, 'Last tested on 07-06-2020 13:40!' )
+  t.ok(1, 'Redeployed on 07-06-2020 17:25!' )
   t.end()
 })
